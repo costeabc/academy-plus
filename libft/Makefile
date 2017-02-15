@@ -2,7 +2,7 @@ NAME = libft.a
 
 FLAGS = -Wall -Wextra -Werror
 
-SRC =	ft_putchar.c ft_putstr.c 
+SRC =	ft_strncmp.c ft_strcmp.c ft_putchar.c ft_putstr.c 
 
 OBJ = $(SRC:.c=.o)
 
